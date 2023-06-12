@@ -1,0 +1,32 @@
+{
+  "chipset_details": {
+    "soc": "MTK",
+    "model": "5581",
+    "chipset": "15x",
+    "dlm_path": "1/0",
+    "model_group": "MG15X-",
+    "chipset_prefix": "MTKA",
+    "chipset_year": "2019"
+  },
+  "inhouse_module_details": [
+    {
+      "module_name": "VZSERVICES",
+      "source_code": [
+        {
+          "repo_name": "VZServices",
+          "git_branch": "release-FURL5.0",
+          "git_commit": "ca0f7a530cdbfee1ce28297253efe015a44f4e6e"
+        }
+      ]
+    },
+    {
+      "module_name": "VIZIOSDK",
+      "source_code": [
+        {
+          "repo_name": "vizio_sdk",
+          "git_commit": "4cb0c5114c9927b99a03efd7e4e704f3f7730e33"
+        }
+      ]
+    }
+  ]
+}
