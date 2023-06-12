@@ -14,8 +14,7 @@
       "source_code": [
         {
           "repo_name": "VZServices",
-          "git_branch": "release-FURL5.0",
-          "git_commit": "ca0f7a530cdbfee1ce28297253efe015a44f4e6e"
+          "git_branch": "release-FURL5.0"
         }
       ]
     },
