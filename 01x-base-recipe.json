@@ -26,6 +26,16 @@
           "git_commit": "4cb0c5114c9927b99a03efd7e4e704f3f7730e33"
         }
       ]
+    },
+    {
+      "module_name": "WSBRIDGE",
+      "source_code": [
+        {
+          "repo_name": "wsbridge",
+          "git_branch": "standalone-build",
+          "git_tag": "FUR5.3"
+        }
+      ]
     }
   ]
 }
